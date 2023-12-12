@@ -1,4 +1,5 @@
 # Rede Social Simples
+ReactJs/TypeScript/NodeJs/MySql/Semantic UI React
 
 Para o funcionamento faça os seguintes passos
 
